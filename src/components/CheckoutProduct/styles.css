@@ -1,0 +1,31 @@
+.check_rating {
+      display: flex;
+}
+.checkproduct > img {
+      width: 200px;
+      
+      object-fit: contain;
+
+}
+
+.checkproduct {
+      display: flex;
+      margin-top: 20px;
+      margin-bottom: 20px;
+}
+
+.check_info {
+      padding: 20px;
+    
+}
+
+.check_info button {
+      background-color: coral;
+      border: 1px solid;
+      margin-top: 10px;
+      color:#111;
+}
+.check_title {
+      font-size: 17px;
+      font-weight: 800;
+}
